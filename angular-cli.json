@@ -8,18 +8,14 @@
       "root": "src",
       "outDir": "dist",
       "assets": [
-        "assets",
-        "favicon.ico"
       ],
       "index": "index.html",
       "main": "main.ts",
       "test": "test.ts",
       "tsconfig": "tsconfig.json",
-      "prefix": "app",
+      "prefix": "heatmap",
+        "styles": [],
       "mobile": false,
-      "styles": [
-        "styles.css"
-      ],
       "scripts": [],
       "environments": {
         "source": "environments/environment.ts",
